@@ -41,7 +41,7 @@ I enjoy creating seamless, scalable, and responsive applications. I’m always e
 
 - 📧 **Email:** maazkhan29456@gmail.com  
 - 💼 **LinkedIn:** [Maaz Khan](https://www.linkedin.com/in/maazkhan29456)  
-- 🌐 **Portfolio:** [Maaz Khan Portfolio](https://portfolio.maazkhan.com) (if available)
+- 🌐 **Portfolio:** [Maaz Khan Portfolio](https://portfolio-by-maaz.netlify.app/)
 
 ---
 
